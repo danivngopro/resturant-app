@@ -35,7 +35,6 @@ const styles = StyleSheet.create({
   homeButtonContainerFather: {
     justifyContent: "space-around",
     flexDirection: "row",
-    direction: "rtl",
   },
   homeButtonContainer: {
     backgroundColor: "#ff6d6b",
